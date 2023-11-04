@@ -1,0 +1,39 @@
+/*change brand font*/
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/*change navigation color*/
+.navbar #mymenu .custom-nav .nav-item a {
+    color: white;
+}
+
+/*change navigation hover color*/
+.navbar #mymenu .custom-nav .nav-item a:hover {
+    color:#f0aab1;
+}
+
+
+/* make header image responsive*/
+.back-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top: 74px;
+}
+
+/* Header image sub-title*/
+.st{
+     font-size: 20px;
+}
+/*change link color footer*/
+a{
+    color:skyblue;
+}
+a:hover{
+    color: lightblue;
+}
